@@ -1,0 +1,10 @@
+
+
+class Test {
+    field int x;
+    method void foo() {
+        var int y;
+        let x = 5;
+        let y = 3;
+    }
+}

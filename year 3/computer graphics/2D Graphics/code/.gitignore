@@ -1,0 +1,59 @@
+# C build artifacts
+*.o
+*.exe
+*.out
+*.so
+*.dll
+*.a
+
+# Backup files
+*~
+
+# OS-specific files
+
+## macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+__MACOSX/
+
+## Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+## Linux
+*~
+.directory
+
+# IDE/Editor specific
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Compiled object files
+*.o
+*.obj
+*.elf
+*.bin
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Generated files
+*.d
+*.dep
+
+# Ignore build directories
+build/
+bin/
+dist/

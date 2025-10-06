@@ -1,0 +1,27 @@
+-----------------------------------------------------------------------------------------------
+Benchmark                                     Time             CPU   Iterations UserCounters...
+-----------------------------------------------------------------------------------------------
+default_blit_earth/320/240/0             130915 ns       130910 ns         5341 bytes_per_second=4.37098Gi/s
+default_blit_earth/1280/720/0           1035244 ns      1035097 ns          677 bytes_per_second=5.18253Gi/s
+default_blit_earth/1920/1080/0          1256021 ns      1255810 ns          556 bytes_per_second=5.93882Gi/s
+default_blit_earth/7680/4320/0          1253637 ns      1253435 ns          556 bytes_per_second=5.95007Gi/s
+default_blit_earth/320/240/1              22471 ns        22468 ns        31161 bytes_per_second=5.43309Gi/s
+default_blit_earth/1280/720/1             22081 ns        22078 ns        31573 bytes_per_second=5.52893Gi/s
+default_blit_earth/1920/1080/1            22122 ns        22121 ns        31738 bytes_per_second=5.51839Gi/s
+default_blit_earth/7680/4320/1            22978 ns        22967 ns        31154 bytes_per_second=5.31506Gi/s
+blit_ex_solid_benchmark/320/240/0        122992 ns       122975 ns         5706 bytes_per_second=4.65302Gi/s
+blit_ex_solid_benchmark/1280/720/0      1133415 ns      1133357 ns          619 bytes_per_second=4.73321Gi/s
+blit_ex_solid_benchmark/1920/1080/0     1577104 ns      1576943 ns          446 bytes_per_second=4.72942Gi/s
+blit_ex_solid_benchmark/7680/4320/0     1576500 ns      1576413 ns          442 bytes_per_second=4.73101Gi/s
+blit_ex_solid_benchmark/320/240/1         26309 ns        26307 ns        26579 bytes_per_second=4.64014Gi/s
+blit_ex_solid_benchmark/1280/720/1        26098 ns        26098 ns        26684 bytes_per_second=4.6774Gi/s
+blit_ex_solid_benchmark/1920/1080/1       26521 ns        26516 ns        26379 bytes_per_second=4.60367Gi/s
+blit_ex_solid_benchmark/7680/4320/1       28074 ns        28072 ns        24511 bytes_per_second=4.34852Gi/s
+blit_ex_memcpy_benchmark/320/240/0         6423 ns         6421 ns       111313 bytes_per_second=89.119Gi/s
+blit_ex_memcpy_benchmark/1280/720/0       68205 ns        68188 ns        11186 bytes_per_second=78.6714Gi/s
+blit_ex_memcpy_benchmark/1920/1080/0      99723 ns        99713 ns         7670 bytes_per_second=74.795Gi/s
+blit_ex_memcpy_benchmark/7680/4320/0     110445 ns       110394 ns         6439 bytes_per_second=67.5586Gi/s
+blit_ex_memcpy_benchmark/320/240/1         1158 ns         1157 ns       603834 bytes_per_second=105.494Gi/s
+blit_ex_memcpy_benchmark/1280/720/1        1168 ns         1168 ns       601293 bytes_per_second=104.518Gi/s
+blit_ex_memcpy_benchmark/1920/1080/1       1208 ns         1208 ns       577769 bytes_per_second=101.093Gi/s
+blit_ex_memcpy_benchmark/7680/4320/1       1158 ns         1157 ns       623075 bytes_per_second=105.472Gi/s

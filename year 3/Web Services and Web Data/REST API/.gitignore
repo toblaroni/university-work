@@ -1,0 +1,82 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Django stuff:
+db.sqlite3
+*.sqlite3
+/media/
+staticfiles/
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+# Django secret key and environment settings
+.env
+*.envrc
+config/settings/local.py
+
+# Python virtual environment
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+eggs/
+sdist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Node modules (if using frontend)
+node_modules/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+*.iml
+
+# Migrations (optional if you want to force regeneration)
+**/migrations/*.py
+**/migrations/*.pyc
+!**/migrations/__init__.py
+
+# PythonAnywhere settings
+.pythonanywhere/
+
+# Logs and debug
+logs/
+*.log
+*.out
+*.err
+
+# Coverage reports
+.coverage
+htmlcov/
+*.cover
+
+# Testing
+.tox/
+.nox/
+.cache/
+pytest_cache/
+junit_xml/
+
+# Docker files (if applicable)
+.dockerignore
+docker-compose.override.yml
+
+# Ignore compiled Python files
+*.pyc

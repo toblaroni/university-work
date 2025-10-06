@@ -1,0 +1,152 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+*{
+   color: white;
+   font-family: 'Bebas Neue', cursive;
+
+}
+
+.navbar-brand{
+   font-size: 2.5rem !important;
+}
+
+.nav-link {
+   font-size: 1.5rem;
+}
+
+#gradient {
+   width: 50%;
+   height: 150%;
+   background: rgb(255,0,0);
+   background: linear-gradient(180deg, rgba(255,0,0,1) 0%, rgba(255,0,0,1) 0%, rgba(255,179,0,1) 100%);
+}
+
+i {
+   font-size: 2.5rem;
+   letter-spacing: 3rem;
+}
+
+i:hover {
+   color: rgb(200, 200, 200)
+}
+
+html, body {
+   width: 100%;
+   height: 100%;
+
+}
+
+html body {
+   background-color: black;
+   overflow-x:hidden;
+}
+
+#bg-image {
+   background-image: url(graphics/animations/background.gif);
+   width: 100%;
+}
+
+#map {
+   width: 100%;
+   height: 150%;
+   max-width: 600px;
+   max-height: 600px;
+}
+
+.description {
+   text-align: center !important;
+   font-size: 1.5rem;
+   
+}
+
+.text-justify {
+   text-align: justify !important;
+}
+
+.active {
+   font-weight: bold;
+   text-decoration: underline !important;
+}
+
+#home {
+   color: #ffc107;
+}
+
+#graphics {
+   color: #fd7e14 !important;
+}
+
+#contact {
+   color: #0d6efd !important;
+}
+
+#photos {
+   color: #198754 ;
+}
+
+#about {
+   color: #dc3545 !important;
+   font-size: x-large;
+}
+
+a.snake-links {
+   text-decoration: none;
+   position: absolute;
+}
+
+#anykey {
+   position: absolute;
+   left: 50%;
+   top: 50%;
+   transform: translate(-50%, -50%);
+   font-size: 25px;
+   background-color: black;
+   text-decoration: underline;
+   border: 4px solid;
+   padding: 10px;
+
+}
+
+#index {
+   overflow: hidden;
+}
+
+#animation-carousel {
+   margin-left: auto;
+   margin-right: auto;
+   width: 100%;
+   max-width: 600px;
+}
+
+#white-squares {
+   width:100%;
+   height: 100%;
+   max-width: 800px;
+   max-height: 800px;
+   position: relative;
+   left: 50%;
+   transform: translate(-50%);
+   padding: 10px;
+
+
+}
+
+.carousel-item img {
+   width: 100%;
+}
+
+.image, .portrait-image {
+   width: 100%;
+   max-width: 600px;
+}
+
+#ram-z {
+   width: 100%;
+}
+
+.portrait-image {
+   max-height: 600px;
+}
+
+
