@@ -1,0 +1,4 @@
+# Operating Systems
+This module was all about operating systems and how they work (shock!). We learnt about system calls, different types of OS, memory management, scheduling, virtual memory, and all that other OS stuff. I found this module hard. OS's are complicated and it makes you realise how much is going on behind the scenes on your computer.
+
+Throughout the module we tweaked the [XV6 Operating System](https://pdos.csail.mit.edu/6.828/2025/xv6.html), a small operating system built by MIT for educational purposes. For our coursework we had to implement `malloc()` and `free()` from scratch. I learnt about the different schemes that can be used to optimise memory management. My solution uses a linked list and first-fit allocation to find appropriate sized chunks of memory. As an extra feature I implemented coalescence of contiguous blocks with my own novel recursive algorithm (I received full marks for this project). 
