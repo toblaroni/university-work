@@ -1,5 +1,5 @@
 # university-work
-This is an accumulation of all the key bits of code I wrote while I was at university. It's nice to see the progression of my programming ability from first year to third year. 
+This is an accumulation of all the key bits of code I wrote while I was at university.
 
 ### Year 1
 - [Object-Oriented Programming](/year%201/object-oriented%20programming/)
@@ -10,7 +10,7 @@ This is an accumulation of all the key bits of code I wrote while I was at unive
 ### Year 2
 - [networks](year%202/networks/)
 - [numerical computation](year%202/numerical%20computation/)
-- [operation systems](year%202/operating%20systems/)
+- [operating systems](year%202/operating%20systems/)
 - [web application development](year%202/web%application%20development/)
 - [compiler design and construction](year%202/compiler%20design%20and%20construction/)
 
