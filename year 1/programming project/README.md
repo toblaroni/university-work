@@ -1,7 +1,7 @@
 # Programming Project
 This was the coursework for COMP1921 - programming project. We had to code a series of utilities for .pgm files and create a makefile and a test script.
 
-I learnt so much during this project. It was my first time using C, GDB, Make and writing shell scripts. This project deepened my understanding of computer systems while also teaching me how to write clean and manageable code.
+I learnt so much during this project. It was my first time using C, GDB, Make and writing shell scripts. This project deepened my understanding of computer systems while also teaching me how to write clean and manageable code. This was probably the hardest project during my time at university and definitely the one I learnt the most in. 
 
 #### Utilities
 PgmEcho will just create an exact replica of the input image. pgmCompare will logically compare two .pgm files. Pgmb2a and a2b converts .pgm files between ASCII to Binary. PgmReduce will reduce the .pgm file by the given reduction factor.
