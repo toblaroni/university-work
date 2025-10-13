@@ -9,6 +9,7 @@ This is an accumulation of all the key bits of code I wrote while I was at unive
 
 ### Year 2
 - [numerical computation](year%202/numerical%20computation/)
+- [networking](year%202/networking/)
 - [operating systems](year%202/operating%20systems/)
 - [web application development](year%202/web%20application%20development/)
 - [compiler design and construction](year%202/compiler%20design%20and%20construction/)
